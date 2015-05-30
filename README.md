@@ -54,3 +54,6 @@ Found an awesome blog, video, talk, tutorial etc that's not on this list?. Notif
 * [KnowRick](https://knowrick.com/)
 * [PlugMob](https://plugmob.com/)
 * [OpenGraph.io](http://opengraph.io/)
+* [Ulbora CMS](http://www.ulboracms.org)
+* [Pencilblue](http://pencilblue.org/)
+* [Meanjs.org](http://meanjs.org/)

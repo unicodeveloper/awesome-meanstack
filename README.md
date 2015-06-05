@@ -14,6 +14,9 @@ Found an awesome blog, video, talk, tutorial etc that's not on this list?. Notif
 
 ## Contents
 
+#### Mean Stack Heaven
+* [Mastering Mean Stack](https://masteringmean.com/)
+
 ##### Blog Post Tutorials
 * [Building angularJs and Nodejs apps with the Mean Stack](https://www.codeschool.com/pluralsight-courses/building-angularjs-and-node-js-apps-with-the-mean-stack/)
 * [Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial/)

@@ -40,6 +40,8 @@ Found an awesome blog, video, talk, tutorial etc that's not on this list?. Notif
 * [Mean Stack Restful Api tutorial](http://michaelcheng.io/2015/04/01/mean-stack-restful-api-tutorial-using-node-js-express-angularjs-and-mongodb-to-build-a-contact-list-app/)
 
 ##### Applications Developed with the Mean Stack
+:point_right: [Intellitricks](http://intellitricks.com)
+:point_right: [Disguise](http://disgui.se)
 :point_right: [Meanmap](http://meanmap.com)
 :point_right: [Airpair](https://www.airpair.com/)
 :point_right: [Learner Codes](http://learner.codes)

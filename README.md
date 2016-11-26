@@ -17,6 +17,15 @@ Found an awesome blog, video, talk, tutorial etc that's not on this list?. Notif
 #### Mean Stack Heaven
 * [Mastering Mean Stack](https://masteringmean.com/)
 
+##### Video Tutorials
+* [Master the MEAN Stack - Learn By Example](https://www.udemy.com/master-the-mean-stack/)
+* [Mean stack for beginners](https://www.udemy.com/mean-stack-for-beginners/)
+* [Mastering MEAN Web Development](https://www.udemy.com/mastering-mean-web-development/)
+* [Master Mean : Learn the fundamentals of Mean Stack](https://www.udemy.com/master-mean/)
+* [Learning Web Development with the MEAN Stack](https://www.udemy.com/learning-web-development-with-the-mean-stack/)
+* [MEAN Stack For Web Developers: Build Websites on Javascript](https://www.udemy.com/javascript-based-website-in-minutes-using-the-mean-stack/learn/v4/overview)
+* [Mastering MEAN Web Development: Expert Full Stack JavaScript](https://www.udemy.com/mastering-mean-web-development-expert-full-stack-javascript/)
+
 ##### Blog Post Tutorials
 * [Building angularJs and Nodejs apps with the Mean Stack](https://www.codeschool.com/pluralsight-courses/building-angularjs-and-node-js-apps-with-the-mean-stack/)
 * [Learn to Build Modern Web Apps with MEAN](https://thinkster.io/mean-stack-tutorial/)
